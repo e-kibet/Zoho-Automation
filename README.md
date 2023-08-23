@@ -1,16 +1,19 @@
-## 1.Project Description
+## Project Name
+Zoho Automation
+
+## Project Description
 
 This is an workflow process flow automation by means of a bot
 
-## 2.Project Author
+## Project Author
 
 Evans Kiptarus Kibet
 
-## 3.Project URL
+## Project URL
 
 https://github.com/e-kibet/Zoho-Automation.git
 
-## 4.Technologies Used
+## Technologies Used
 
 UiPath Studio
 
@@ -18,5 +21,5 @@ UiPath Orchestrator
 
 Zoho Desk APP
 
-## 5.Contact Information
+## Contact Information
 Feel free to contact me with any questions, comments or suggestions concerning the project on e-mail or share the PR
